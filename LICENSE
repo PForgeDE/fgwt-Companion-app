@@ -1,0 +1,65 @@
+FGWT Companion
+Copyright (c) 2026 PForge (Phoenix Forge). Alle Rechte vorbehalten.
+All rights reserved.
+
+Deutsch
+-------
+
+FGWT Companion ("die Software") ist urheberrechtlich geschützt und Eigentum
+von PForge. Die Software ist keine Open-Source-Software.
+
+1. Nutzung. Du darfst die über dieses Repository veröffentlichten Versionen
+   der Software kostenlos herunterladen, installieren und für private,
+   nicht kommerzielle Zwecke nutzen.
+
+2. Weitergabe. Die Weitergabe der unveränderten Installationsdateien ist
+   erlaubt, wenn auf dieses Repository als Quelle verwiesen wird. Verkauf,
+   Vermietung und jede Weitergabe gegen Entgelt sind nicht erlaubt.
+
+3. Veränderung. Die Software darf nicht verändert, dekompiliert,
+   disassembliert oder auf andere Weise zurückentwickelt werden, soweit das
+   Gesetz dies nicht ausdrücklich erlaubt.
+
+4. Eigene Inhalte. Dateien, die du mit der Software erstellst (zum Beispiel
+   geteilte Spiele als .fgwt-game.json, Nachschlagelisten, Skripte), gehören
+   dir.
+
+5. Haftung. Die Software wird ohne Gewähr und ohne jede ausdrückliche oder
+   stillschweigende Garantie bereitgestellt. Die Nutzung erfolgt auf eigenes
+   Risiko. Das gilt insbesondere für das Modul Anti-AFK, das Eingaben an ein
+   Spiel sendet: Ob die Nutzungsbedingungen eines Spiels oder dessen
+   Anti-Cheat-System das erlauben, liegt in deiner Verantwortung. PForge
+   haftet nicht für Schäden, Kontosperren oder Datenverluste, soweit dies
+   gesetzlich zulässig ist.
+
+6. Drittsoftware. Die Software enthält Bibliotheken Dritter. Für diese
+   gelten deren eigene Lizenzbedingungen.
+
+7. Marken. "Star Citizen" ist eine eingetragene Marke der Cloud Imperium
+   Rights LLC. FGWT Companion ist ein inoffizielles Fan-Projekt und steht in
+   keiner Verbindung zu Cloud Imperium Games.
+
+English
+-------
+
+FGWT Companion ("the Software") is protected by copyright and owned by
+PForge. The Software is not open source.
+
+You may download, install and use the versions published in this repository
+free of charge for private, non-commercial purposes. You may redistribute the
+unmodified installer files if you name this repository as the source; selling,
+renting or any redistribution for a fee is not permitted. You may not modify,
+decompile, disassemble or otherwise reverse engineer the Software except where
+the law expressly permits it. Files you create with the Software belong to you.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. USE IT AT YOUR OWN RISK. TO THE EXTENT PERMITTED BY LAW, PFORGE IS
+NOT LIABLE FOR ANY DAMAGE, ACCOUNT SUSPENSION OR DATA LOSS ARISING FROM THE
+USE OF THE SOFTWARE, INCLUDING ITS ANTI-AFK MODULE.
+
+Third-party libraries included in the Software are subject to their own
+licenses. "Star Citizen" is a registered trademark of Cloud Imperium Rights
+LLC; this is an unofficial fan project not affiliated with Cloud Imperium
+Games.
+
+If the German and English versions differ, the German version applies.
